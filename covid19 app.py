@@ -8,9 +8,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 matplotlib.use("TkAgg")
 plt.style.use("seaborn")
 
-
-# çok şey öğrendim hocam ezberci ödev vermediğiniz için teşekkürler
-
 #-------------------------------------------------------------------------------------------------------
 #                              FONKSİYONLARI TANIMLIYORUZ
 #-------------------------------------------------------------------------------------------------------
